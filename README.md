@@ -2,7 +2,7 @@
 
 손으로 기록하고 개발하는 것을 좋아하는 <strong>김현선</strong> 입니다.  
 아직은 사수가 무엇을 말하는지 모르는 것들이 많아  
-야금야금 검색하며 커가고 있는 2년차 웹개발자 입니다.
+야금야금 검색하며 성장하고 있는 2년차 웹개발자 입니다.
 
 #### Contact :point_down:
 <a href="https://medium.com/gdana"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>&nbsp;
